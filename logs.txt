@@ -1,0 +1,28 @@
+2023-12-26 18:03:48,725 - INFO - Flask Server Started
+2023-12-26 18:03:48,745 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-26 18:03:48,746 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-26 18:04:30,583 - INFO - ***Open Home Page***
+2023-12-26 18:04:30,601 - INFO - 127.0.0.1 - - [26/Dec/2023 18:04:30] "GET / HTTP/1.1" 200 -
+2023-12-26 18:04:31,312 - INFO - 127.0.0.1 - - [26/Dec/2023 18:04:31] "[36mGET /static/products/Sentiment-Analysis-option-3.jpg HTTP/1.1[0m" 304 -
+2023-12-26 18:04:31,385 - INFO - 127.0.0.1 - - [26/Dec/2023 18:04:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-12-26 18:05:08,722 - INFO - Text  : Awesome. Great Product
+2023-12-26 18:05:08,725 - INFO - Preprocessed Text  : 0    awesom great product
+Name: tweet, dtype: object
+2023-12-26 18:05:08,727 - INFO - Vectorized Text  : [[0. 0. 0. ... 0. 0. 0.]]
+2023-12-26 18:05:08,728 - INFO - Prediction Text  : {prediction}
+2023-12-26 18:05:08,728 - INFO - 127.0.0.1 - - [26/Dec/2023 18:05:08] "[32mPOST / HTTP/1.1[0m" 302 -
+2023-12-26 18:05:08,735 - INFO - ***Open Home Page***
+2023-12-26 18:05:08,736 - INFO - 127.0.0.1 - - [26/Dec/2023 18:05:08] "GET / HTTP/1.1" 200 -
+2023-12-26 18:05:08,764 - INFO - 127.0.0.1 - - [26/Dec/2023 18:05:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-12-26 18:05:08,773 - INFO - 127.0.0.1 - - [26/Dec/2023 18:05:08] "[36mGET /static/products/Sentiment-Analysis-option-3.jpg HTTP/1.1[0m" 304 -
+2023-12-26 18:07:24,462 - INFO - Text  : I hate it. Really Bad.
+2023-12-26 18:07:24,466 - INFO - Preprocessed Text  : 0    hate realli bad
+Name: tweet, dtype: object
+2023-12-26 18:07:24,466 - INFO - Vectorized Text  : [[0. 0. 0. ... 0. 0. 0.]]
+2023-12-26 18:07:24,468 - INFO - Prediction Text  : {prediction}
+2023-12-26 18:07:24,469 - INFO - 127.0.0.1 - - [26/Dec/2023 18:07:24] "[32mPOST / HTTP/1.1[0m" 302 -
+2023-12-26 18:07:24,476 - INFO - ***Open Home Page***
+2023-12-26 18:07:24,477 - INFO - 127.0.0.1 - - [26/Dec/2023 18:07:24] "GET / HTTP/1.1" 200 -
+2023-12-26 18:07:24,512 - INFO - 127.0.0.1 - - [26/Dec/2023 18:07:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-12-26 18:07:24,515 - INFO - 127.0.0.1 - - [26/Dec/2023 18:07:24] "[36mGET /static/products/Sentiment-Analysis-option-3.jpg HTTP/1.1[0m" 304 -
