@@ -91,7 +91,7 @@ design
 give
 anoth
 crazi
-purchas
+purcha
 lol
 work
 hard
@@ -112,7 +112,7 @@ reason
 one
 suck
 truth
-agre
+agr
 fact
 store
 screen
@@ -208,6 +208,7 @@ bad
 cheap
 tech
 bull
+insta
 smile
 creat
 let
@@ -280,7 +281,7 @@ birthday
 tv
 comput
 school
-serious
+seriou
 month
 good
 job
@@ -324,7 +325,7 @@ red
 rock
 soul
 singer
-univers
+univ
 wed
 thought
 id
@@ -333,7 +334,7 @@ ipadmini
 feel
 broken
 light
-pleas
+plea
 indonesia
 gold
 potd
@@ -406,7 +407,7 @@ model
 cd
 featur
 didnt
-coffe
+coff
 effect
 spring
 galaxynot
@@ -505,6 +506,7 @@ surf
 capetown
 pro
 half
+el
 stuff
 excit
 open
@@ -517,7 +519,7 @@ though
 enough
 simpl
 th
-refus
+refu
 night
 son
 instagood…
@@ -646,7 +648,7 @@ ever
 sinc
 team
 tri
-convers
+conver
 wouldnt
 small
 blue
@@ -656,7 +658,7 @@ sonylen
 len
 sonyphotographi
 imag
-photofe
+photof
 feed
 yeah
 gorgeou
@@ -682,12 +684,12 @@ guy
 bestpric
 jun
 unlock
-caus
+cau
 manag
 mommi
 bless
 could
-chines
+chine
 close
 system
 morn
@@ -697,7 +699,7 @@ r
 imac
 sell
 mad
-purpos
+purpo
 pari
 answer
 roll
@@ -735,7 +737,6 @@ backup
 peopl
 dad
 anyon
-els
 block
 number
 possibl
@@ -761,7 +762,7 @@ unbox
 wow
 sonyphoto
 top
-phonecas
+phoneca
 june
 sad
 yellow
@@ -779,7 +780,6 @@ order
 sent
 went
 wasnt
-insta
 newphon
 fish
 london
@@ -848,6 +848,7 @@ appar
 ago
 zeeland
 appletv
+geniu
 ask
 said
 meet
@@ -887,7 +888,7 @@ vacat
 anim
 notebook
 redbubbl
-iphonecas
+iphoneca
 king
 yo
 left
@@ -915,7 +916,7 @@ duo
 dj
 save
 mr
-releas
+relea
 gonna
 entir
 part
@@ -927,7 +928,7 @@ eat
 walk
 side
 explor
-hous
+hou
 room
 rs
 piano
@@ -935,7 +936,7 @@ v
 thankyou
 happen
 page
-surpris
+surpri
 deliveri
 messag
 vocat
@@ -964,7 +965,7 @@ consol
 blogger
 protect
 skin
-choos
+choo
 uniqu
 piec
 lot
@@ -1001,14 +1002,13 @@ asshol
 hack
 post
 till
-wors
+wor
 voic
 att
 offic
-hors
+hor
 credit
 appoint
-geniu
 glad
 decid
 radio
@@ -1096,7 +1096,7 @@ street
 bore
 vintag
 fine
-goodby
+goodbi
 glass
 applesupport
 daddi
@@ -1123,6 +1123,7 @@ around
 xd
 correct
 rose
+ar
 entrepreneur
 netflix
 photobooth
